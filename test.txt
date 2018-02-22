@@ -1,0 +1,9 @@
+Programming is a skill that is acquired over several years of experience with a variety
+of programming languages and tasks. Key high-level abilities are algorithm design and
+its manifestation in structured programming. Key low-level abilities include familiarity
+with the syntactic constructs of the language, and knowledge of a variety of diagnostic
+methods for trouble-shooting a program which does not exhibit the expected behavior.
+This section describes the internal structure of a program module and how to organize
+a multi-module program. Then it describes various kinds of error that arise during
+program development, what you can do to fix them and, better still, to avoid them in
+the first place.
